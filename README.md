@@ -31,3 +31,4 @@ Run the compiled executable.
 - SPACE: To Shoot Laser. 
 - ESC: Pause the game.
 - Enter: Resume the paused game.
+- Left Click: To select multiple menu options.
