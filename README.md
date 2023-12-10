@@ -20,7 +20,7 @@ This is a simple 2D space shooter game created in C++ using SFML framework. In t
 - Compiler: You need to have a compiler like VS [VS DOWNLOAD](https://visualstudio.microsoft.com/downloads/) or VS CODE [VS CODE DOWNLOAD](https://code.visualstudio.com/download).
 
 # COMPILATION
-Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately. You can link it by looking at the documentation from here[SFML tutorial] (https://www.sfml-dev.org/tutorials/2.6/).
+Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately. You can link it by looking at the documentation from here [SFML tutorial](https://www.sfml-dev.org/tutorials/2.6/).
 
 # RUNNING THE GAME
 Run the compiled executable.
