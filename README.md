@@ -1,6 +1,6 @@
-#SEMESTER PROJECT
+# SEMESTER PROJECT
 
-#SPACE SHOOTER GAME
+# SPACE SHOOTER GAME
 
 This is a simple 2D space shooter game created in C++ using SFML framework. In this game you have to destroy enemies and do not let the enemies reach the bottom line otherwise one of your live would be deducted. When all your lives are gone game will be over.
 
