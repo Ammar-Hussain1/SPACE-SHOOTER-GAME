@@ -4,7 +4,7 @@
 
 This is a simple 2D space shooter game created in C++ using SFML framework. In this game you have to destroy enemies. Do not let the enemies reach the bottom line otherwise one of your live would be deducted. When all your lives counter reaches to zero, game will be over.
 
-#FEATURES
+# FEATURES
 - High Scores: There is a window which pays tribute to the top 10 high scorers and theeir respective high scores.
 - Settings: You can alter laser speed, jet speed, total number of lives and laser color from settings. The settings will be saved in a file.
 - Pause Window: You can pause the window any time in  between the game.
@@ -12,7 +12,7 @@ This is a simple 2D space shooter game created in C++ using SFML framework. In t
 - Sound Effects: Sound effects at the beginning of game, at game over screen, menu selection, collision, and live reduction are added.
 - Randomly Generated Enemies: Enemies will be generated randomly for infinite amount of times until all the lives of the player are lost.
 
-# Getting Started
+# HOW TO RUN?
 
 # Prerequisites
 - SFML library: You need to have SFML[SFML DOWNLOAD](https://www.sfml-dev.org/download.php) installed on your system.
