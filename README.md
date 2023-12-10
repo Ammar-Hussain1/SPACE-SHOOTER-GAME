@@ -2,7 +2,7 @@
 
 # SPACE SHOOTER GAME
 
-This is a simple 2D space shooter game created in C++ using SFML framework. In this game you have to destroy enemies and do not let the enemies reach the bottom line otherwise one of your live would be deducted. When all your lives are gone game will be over.
+This is a simple 2D space shooter game created in C++ using SFML framework. In this game you have to destroy enemies. Do not let the enemies reach the bottom line otherwise one of your live would be deducted. When all your lives counter reaches to zero, game will be over.
 
 #FEATURES
 - High Scores: There is a window which pays tribute to the top 10 high scorers and theeir respective high scores.
