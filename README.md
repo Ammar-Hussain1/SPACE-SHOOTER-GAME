@@ -6,7 +6,7 @@ This is a simple 2D space shooter game created in C++ using SFML framework. In t
 
 # FEATURES
 
-- High Scores: There is a window which pays tribute to the top 10 high scorers and theeir respective high scores.
+- High Scores: There is a window which pays tribute to the top 10 high scorers and their respective high scores.
 - Settings: You can alter laser speed, jet speed, total number of lives and laser color from settings. The settings will be saved in a file.
 - Pause Window: You can pause the window any time in  between the game.
 - Name Entry and Score: The Current score of the player along with the name of player is displayed at bottom during the game.
