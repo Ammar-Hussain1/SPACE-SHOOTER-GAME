@@ -4,7 +4,7 @@
 
 This is a simple 2D space shooter game created in C++ using SFML framework. In this game you have to destroy enemies. Do not let the enemies reach the bottom line otherwise one of your live would be deducted. When all your lives counter reaches to zero, game will be over.
 
-# Features
+# FEATURES
 
 - High Scores: There is a window which pays tribute to the top 10 high scorers and theeir respective high scores.
 - Settings: You can alter laser speed, jet speed, total number of lives and laser color from settings. The settings will be saved in a file.
@@ -15,14 +15,14 @@ This is a simple 2D space shooter game created in C++ using SFML framework. In t
 
 # HOW TO RUN?
 
-# Prerequisites
-- SFML library: You need to have SFML[SFML DOWNLOAD](https://www.sfml-dev.org/download.php) installed on your system.
-- Compiler: You need to have a compiler like VS[VS DOWNLOAD](https://visualstudio.microsoft.com/downloads/) or VS CODE[VS CODE DOWNLOAD](https://code.visualstudio.com/download).
+# PREREQUISITE
+- SFML library: You need to have SFML [SFML DOWNLOAD](https://www.sfml-dev.org/download.php) installed on your system.
+- Compiler: You need to have a compiler like VS [VS DOWNLOAD](https://visualstudio.microsoft.com/downloads/) or VS CODE [VS CODE DOWNLOAD](https://code.visualstudio.com/download).
 
-# Compilation
-Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately. You can link it by looking at the documentation from here[SFML tutorial](https://www.sfml-dev.org/tutorials/2.6/).
+# COMPILATION
+Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately. You can link it by looking at the documentation from here[SFML tutorial] (https://www.sfml-dev.org/tutorials/2.6/).
 
-# Running the Game
+# RUNNING THE GAME
 Run the compiled executable.
 
 # Controls
